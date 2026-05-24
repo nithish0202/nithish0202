@@ -4,6 +4,20 @@
 
 </div>
 
+---
+
+## 🙋‍♂️ Who Am I ?
+
+🚀 Full Stack Developer | Passionate about Web Development & Mobile Applications
+
+- 🔭 Currently working on **Full Stack Web Projects**
+- 🌱 Currently learning **React, Node.js & Mobile Development**
+- 👯 Looking to collaborate on **Web & Android/iOS Projects**
+- 💬 Ask me about **React, Node.js, MongoDB, PostgreSQL**
+- 📫 Reach me at **nithishmagudeeswaran2004@gmail.com**
+- ⚡ Fun fact **I squash bugs & ship rockets 🚀🐛**
+
+---
 
 ## 🛠️ Wanna Know My Professional Skills?
 
@@ -25,8 +39,8 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+### ☁️ Cloud & Deployment
+![IIS](https://img.shields.io/badge/Microsoft%20IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -66,6 +80,7 @@
 </div>
 
 ---
+
 ## 🐍 My Contribution Snake
 
 <div align="center">
@@ -81,6 +96,8 @@
 
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -89,10 +106,12 @@
 
 </div>
 
+---
 
 ## 💛 Collaboration
 
-🚀 Seeking partners for magical projects in Web Development and Android/IoS Applications!
+🚀 Seeking partners for magical projects in Web Development and Android/iOS Applications!
+Let's craft something extraordinary together and unleash innovation's power in our digital quest! 🌍
 
 ---
 
@@ -101,7 +120,6 @@
 📧 Drop me a line at **nithishmagudeeswaran2004@gmail.com**
 
 💼 Let's connect on **[LinkedIn](https://linkedin.com/in/nithish-magudeeswaran-995660282)**
-
 
 ---
 
