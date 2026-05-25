@@ -98,16 +98,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nithish0202&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 💛 Collaboration
 
 🚀 Seeking partners for magical projects in Web Development and Android/iOS Applications!
