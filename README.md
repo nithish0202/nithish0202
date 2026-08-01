@@ -28,68 +28,68 @@ Software Engineer building scalable full-stack systems across **.NET, React, Nex
 
 | | | | |
 |---|---|---|---|
-| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB | <img src="https://cdn.simpleicons.org/express/000000" width="18"/> Express.js | <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React.js | <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="18"/> Node.js |
-| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"/> JavaScript | <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="18"/> Bootstrap | <img src="https://cdn.simpleicons.org/redux/764ABC" width="18"/> Redux | <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="18"/> Vue.js |
-| <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="18"/> JWT | <img src="https://cdn.simpleicons.org/google/4285F4" width="18"/> Google OAuth | <img src="https://cdn.simpleicons.org/insomnia/4000BF" width="18"/> REST API | <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="18"/> Next.js |
-| <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="18"/> NestJS | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> TypeScript | | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="18"/> Express.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18"/> Node.js |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18"/> JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="18"/> Bootstrap | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="18"/> Redux | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="18"/> Vue.js |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/jsonwebtokens.svg" width="18"/> JWT | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> Google OAuth | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="18"/> REST API | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18"/> Next.js |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="18"/> NestJS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18"/> TypeScript | | |
 
 **.NET Stack**
 
 | | | | |
 |---|---|---|---|
-| <img src="https://cdn.simpleicons.org/csharp/239120" width="18"/> C# | <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="18"/> ASP.NET Core | <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="18"/> ASP.NET MVC | <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="18"/> Web API |
-| <img src="https://cdn.simpleicons.org/jquery/0769AD" width="18"/> jQuery | <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="18"/> Chart.js | <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="18"/> Microservices | <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="18"/> SQL Server |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="18"/> C# | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="18"/> ASP.NET Core | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="18"/> ASP.NET MVC | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="18"/> Web API |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="18"/> jQuery | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="18"/> Chart.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="18"/> Microservices | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="18"/> SQL Server |
 
 **Frontend**
 
 | | | | |
 |---|---|---|---|
-| <img src="https://cdn.simpleicons.org/html5/E34F26" width="18"/> HTML5 | <img src="https://cdn.simpleicons.org/css3/1572B6" width="18"/> CSS3 | <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="18"/> Tailwind CSS | <img src="https://cdn.simpleicons.org/mui/007FFF" width="18"/> Material UI |
-| <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React Icons | <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React Bits | <img src="https://cdn.simpleicons.org/figma/F24E1E" width="18"/> Figma | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18"/> HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18"/> CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="18"/> Tailwind CSS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="18"/> Material UI |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React Icons | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18"/> React Bits | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="18"/> Figma | |
 
 **Database**
 
 | | | | |
 |---|---|---|---|
-| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB | <img src="https://cdn.simpleicons.org/mysql/4479A1" width="18"/> MySQL | <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="18"/> PostgreSQL | <img src="https://cdn.simpleicons.org/oracle/F80000" width="18"/> Oracle SQL |
-| <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="18"/> SQL Server | <img src="https://cdn.simpleicons.org/prisma/2D3748" width="18"/> Prisma | | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18"/> MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> PostgreSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="18"/> Oracle SQL |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="18"/> SQL Server | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="18"/> Prisma | | |
 
 **Deployment**
 
 | | | | |
 |---|---|---|---|
-| <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="18"/> Netlify | <img src="https://cdn.simpleicons.org/vercel/000000" width="18"/> Vercel | <img src="https://cdn.simpleicons.org/render/46E3B7" width="18"/> Render | <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="18"/> IIS |
-| <img src="https://cdn.simpleicons.org/hostinger/673DE6" width="18"/> Hostinger | | | |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/netlify.svg" width="18"/> Netlify | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" width="18"/> Vercel | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/render.svg" width="18"/> Render | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="18"/> IIS |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/hostinger.svg" width="18"/> Hostinger | | | |
 
 **Cloud & DevOps**
 
 | | | | |
 |---|---|---|---|
-| <img src="https://cdn.simpleicons.org/git/F05032" width="18"/> Git | <img src="https://cdn.simpleicons.org/github/181717" width="18"/> GitHub | <img src="https://cdn.simpleicons.org/subversion/809CC9" width="18"/> Tortoise SVN | <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="18"/> Azure |
-| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="18"/> AWS | <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="18"/> CI/CD | | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18"/> Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> GitHub | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/subversion.svg" width="18"/> Tortoise SVN | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="18"/> Azure |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="18"/> AWS | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="18"/> CI/CD | | |
 
 **Tools**
 
 | | | | |
 |---|---|---|---|
-| <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="18"/> VS Code | <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="18"/> Visual Studio | <img src="https://cdn.simpleicons.org/postman/FF6C37" width="18"/> Postman | <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="18"/> SSMS |
-| <img src="https://cdn.simpleicons.org/mysql/4479A1" width="18"/> MySQL Workbench | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB Atlas | <img src="https://cdn.simpleicons.org/postgresql/336791" width="18"/> pgAdmin4 | <img src="https://cdn.simpleicons.org/oracle/F80000" width="18"/> Oracle SQL Developer |
-| <img src="https://cdn.simpleicons.org/sqlite/003B57" width="18"/> Beekeeper Studio | <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="18"/> Photoshop | <img src="https://cdn.simpleicons.org/canva/00C4CC" width="18"/> Canva | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18"/> VS Code | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="18"/> Visual Studio | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="18"/> Postman | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="18"/> SSMS |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18"/> MySQL Workbench | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18"/> MongoDB Atlas | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18"/> pgAdmin4 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="18"/> Oracle SQL Developer |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/sqlite.svg" width="18"/> Beekeeper Studio | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="18"/> Photoshop | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/canva.svg" width="18"/> Canva | |
 
 ---
 
 ### 💼 Experience
 
-**Software Engineer** — Intech Solutions *(Nov 2025 – Present)*
+**Software Engineer** — Initech Solutions *(Nov 2025 – Present)*
 - Building and maintaining full-stack web applications as a .NET Developer using the .NET ecosystem alongside modern frontend frameworks
 - Collaborating with cross-functional teams to design scalable, efficient solutions
 
-**Full Stack Developer (Internship)** — i-Bacus Tech Solutions Pvt. Ltd. *(Aug 2025 – Oct 2025)*
+**Full Stack Developer (Internship)** — I-Bacus Tech Solutions Pvt. Ltd. *(Aug 2025 – Oct 2025)*
 - Developed responsive frontend interfaces using React.js, Redux, and Tailwind CSS
 - Built and maintained RESTful APIs with Node.js and Express.js
 - Integrated JWT and Google OAuth for secure authentication
 
-**MERN Stack Trainee** — i-Bacus Tech Solutions Pvt. Ltd. *(Feb 2025 – Jul 2025)*
+**MERN Stack Trainee** — I-Bacus Tech Solutions Pvt. Ltd. *(Feb 2025 – Jul 2025)*
 - Completed self-directed MERN stack training
 - Implemented RESTful APIs and responsive UIs using React.js and Node.js
 
@@ -148,9 +148,9 @@ Feel free to drop me an email or connect with me on LinkedIn — happy to talk p
 
 <div align="center">
 
-**Email:** &nbsp;<a href="mailto:nithishmagudeeswaran2004@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="28"/></a>
+**Email:** &nbsp;<a href="mailto:nithishmagudeeswaran2004@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="28"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-**LinkedIn:** &nbsp;<a href="https://linkedin.com/in/nithish-magudeeswaran-995660282" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28"/></a>
+**LinkedIn:** &nbsp;<a href="https://linkedin.com/in/nithish-magudeeswaran-995660282" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="28"/></a>
 
 </div>
 
