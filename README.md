@@ -1,128 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20there!%20I'm%20Nithish%20M%20👋🚀&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+### Hey there! I'm Nithish M 👋
+
+**Software Engineer | Full Stack Developer**
+
+![Profile Views](https://komarev.com/ghpvc/?username=nithish0202&color=2f7a4d&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🙋‍♂️ Who Am I ?
+### 🙋‍♂️ Who Am I?
 
-🚀 Full Stack Developer | Passionate about Web Development & Mobile Applications
+Software Engineer building scalable full-stack systems across **.NET, React, Next.js, and Node.js** ecosystems. Comfortable working with both SQL and NoSQL databases — from backend architecture to frontend delivery.
 
-- 🔭 Currently working on **Full Stack Web Projects**
-- 🌱 Currently learning **React, Node.js & Mobile Development**
-- 👯 Looking to collaborate on **Web & Android/iOS Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, PostgreSQL**
+- 💼 Currently working on a full-stack construction & real estate management system
+- 🌱 Currently exploring **Next.js, NestJS, and TypeScript**
+- 🤝 Open to collaborating on full-stack and enterprise web projects
+- 💬 Ask me about **.NET, React, C#, Node.js**
 - 📫 Reach me at **nithishmagudeeswaran2004@gmail.com**
-- ⚡ Fun fact **I squash bugs & ship rockets 🚀🐛**
 
 ---
 
-## 🛠️ Wanna Know My Professional Skills?
+### 🛠️ Skills & Technologies
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**MERN Stack**
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+| | | | |
+|---|---|---|---|
+| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB | <img src="https://cdn.simpleicons.org/express/000000" width="18"/> Express.js | <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React.js | <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="18"/> Node.js |
+| <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18"/> JavaScript | <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="18"/> Bootstrap | <img src="https://cdn.simpleicons.org/redux/764ABC" width="18"/> Redux | <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="18"/> Vue.js |
+| <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="18"/> JWT | <img src="https://cdn.simpleicons.org/google/4285F4" width="18"/> Google OAuth | <img src="https://cdn.simpleicons.org/insomnia/4000BF" width="18"/> REST API | <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="18"/> Next.js |
+| <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="18"/> NestJS | <img src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> TypeScript | | |
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**.NET Stack**
 
-### ☁️ Cloud & Deployment
-![IIS](https://img.shields.io/badge/Microsoft%20IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+| | | | |
+|---|---|---|---|
+| <img src="https://cdn.simpleicons.org/csharp/239120" width="18"/> C# | <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="18"/> ASP.NET Core | <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="18"/> ASP.NET MVC | <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="18"/> Web API |
+| <img src="https://cdn.simpleicons.org/jquery/0769AD" width="18"/> jQuery | <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="18"/> Chart.js | <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="18"/> Microservices | <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="18"/> SQL Server |
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Frontend**
+
+| | | | |
+|---|---|---|---|
+| <img src="https://cdn.simpleicons.org/html5/E34F26" width="18"/> HTML5 | <img src="https://cdn.simpleicons.org/css3/1572B6" width="18"/> CSS3 | <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="18"/> Tailwind CSS | <img src="https://cdn.simpleicons.org/mui/007FFF" width="18"/> Material UI |
+| <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React Icons | <img src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React Bits | <img src="https://cdn.simpleicons.org/figma/F24E1E" width="18"/> Figma | |
+
+**Database**
+
+| | | | |
+|---|---|---|---|
+| <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB | <img src="https://cdn.simpleicons.org/mysql/4479A1" width="18"/> MySQL | <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="18"/> PostgreSQL | <img src="https://cdn.simpleicons.org/oracle/F80000" width="18"/> Oracle SQL |
+| <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="18"/> SQL Server | <img src="https://cdn.simpleicons.org/prisma/2D3748" width="18"/> Prisma | | |
+
+**Deployment**
+
+| | | | |
+|---|---|---|---|
+| <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="18"/> Netlify | <img src="https://cdn.simpleicons.org/vercel/000000" width="18"/> Vercel | <img src="https://cdn.simpleicons.org/render/46E3B7" width="18"/> Render | <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="18"/> IIS |
+| <img src="https://cdn.simpleicons.org/hostinger/673DE6" width="18"/> Hostinger | | | |
+
+**Cloud & DevOps**
+
+| | | | |
+|---|---|---|---|
+| <img src="https://cdn.simpleicons.org/git/F05032" width="18"/> Git | <img src="https://cdn.simpleicons.org/github/181717" width="18"/> GitHub | <img src="https://cdn.simpleicons.org/subversion/809CC9" width="18"/> Tortoise SVN | <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="18"/> Azure |
+| <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="18"/> AWS | <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="18"/> CI/CD | | |
+
+**Tools**
+
+| | | | |
+|---|---|---|---|
+| <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="18"/> VS Code | <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="18"/> Visual Studio | <img src="https://cdn.simpleicons.org/postman/FF6C37" width="18"/> Postman | <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="18"/> SSMS |
+| <img src="https://cdn.simpleicons.org/mysql/4479A1" width="18"/> MySQL Workbench | <img src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB Atlas | <img src="https://cdn.simpleicons.org/postgresql/336791" width="18"/> pgAdmin4 | <img src="https://cdn.simpleicons.org/oracle/F80000" width="18"/> Oracle SQL Developer |
+| <img src="https://cdn.simpleicons.org/sqlite/003B57" width="18"/> Beekeeper Studio | <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="18"/> Photoshop | <img src="https://cdn.simpleicons.org/canva/00C4CC" width="18"/> Canva | |
 
 ---
 
-## 📊 GitHub Stats Dashboard
+### 💼 Experience
+
+**Software Engineer** — Intech Solutions *(Nov 2025 – Present)*
+- Building and maintaining full-stack web applications as a .NET Developer using the .NET ecosystem alongside modern frontend frameworks
+- Collaborating with cross-functional teams to design scalable, efficient solutions
+
+**Full Stack Developer (Internship)** — i-Bacus Tech Solutions Pvt. Ltd. *(Aug 2025 – Oct 2025)*
+- Developed responsive frontend interfaces using React.js, Redux, and Tailwind CSS
+- Built and maintained RESTful APIs with Node.js and Express.js
+- Integrated JWT and Google OAuth for secure authentication
+
+**MERN Stack Trainee** — i-Bacus Tech Solutions Pvt. Ltd. *(Feb 2025 – Jul 2025)*
+- Completed self-directed MERN stack training
+- Implemented RESTful APIs and responsive UIs using React.js and Node.js
+
+---
+
+### 🤝 Collaboration
+
+Willing to work with partners on full-stack, .NET, and web development projects. Open to freelance work, open-source contributions, and long-term collaborations — feel free to reach out if you have an idea worth building.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nithish0202&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish0202&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nithish0202&show_icons=true&theme=default&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish0202&theme=default&hide_border=true" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish0202&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithish0202&layout=compact&theme=default&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithish0202&theme=radical&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nithish0202&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 My Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/nithish0202/nithish0202/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/nithish0202/nithish0202/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake Animation" 
-    src="https://raw.githubusercontent.com/nithish0202/nithish0202/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nithish0202/nithish0202/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nithish0202/nithish0202/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/nithish0202/nithish0202/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 💛 Collaboration
+### 📬 How to Reach Me
 
-🚀 Seeking partners for magical projects in Web Development and Android/iOS Applications!
-Let's craft something extraordinary together and unleash innovation's power in our digital quest! 🌍
-
----
-
-## 📬 How to Reach Me
-
-📧 Drop me a line at **nithishmagudeeswaran2004@gmail.com**
-
-💼 Let's connect on **[LinkedIn](https://linkedin.com/in/nithish-magudeeswaran-995660282)**
-
----
-
-## 👁️ Profile Views
+Feel free to drop me an email or connect with me on LinkedIn — happy to talk projects, opportunities, or collaborations.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nithish0202&color=blueviolet&style=for-the-badge&label=Profile+Views)
+**Email:** &nbsp;<a href="mailto:nithishmagudeeswaran2004@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="28"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+**LinkedIn:** &nbsp;<a href="https://linkedin.com/in/nithish-magudeeswaran-995660282" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28"/></a>
 
 </div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
